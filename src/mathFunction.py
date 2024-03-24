@@ -23,9 +23,3 @@ def input_arguements():
     return values
 
 
-
-# average_function = AverageFunction()
-# arguements = input_arguements()
-
-# result_average = average_function.calculate(*arguements)
-

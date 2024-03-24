@@ -6,7 +6,7 @@ log = logger.logger()
 def main():
 
     print("MATHEMATICAL FUNCTION: Arithmetic Average")
-    log.info("Instantiating an object of the class AverageFunction.")
+    log.info("Instantiating an object of the child class AverageFunction.")
     average_function = mathFunction.AverageFunction()
     arguements = mathFunction.input_arguements()
 
