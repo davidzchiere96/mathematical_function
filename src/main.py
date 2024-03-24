@@ -1,3 +1,5 @@
+import logger
+
 def main():
     print("Hello World!")
 
