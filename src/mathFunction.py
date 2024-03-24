@@ -19,13 +19,13 @@ class AverageFunction(MathFunction):
         return results
 
 def input_arguements():
-    values = [int(value) for value in input("Enter a list of numbers separated by spaces: ").split()]
+    values = [float(value) for value in input("Enter a list of numbers separated by spaces: ").split()]
     return values
 
 
 
-average_function = AverageFunction()
-arguements = input_arguements()
+# average_function = AverageFunction()
+# arguements = input_arguements()
 
-result_average = average_function.calculate(*arguements)
+# result_average = average_function.calculate(*arguements)
 
