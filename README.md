@@ -9,16 +9,16 @@ Simple python project simulating the behaviour of a mathematical function.
   </a>
 
 ###
-
-### Main Architecture
 __________________________________________________________________
+### Main Architecture
+
 
 <p align="center">
   <img src="doc\img\MATHEMATICAL_FUNCTION_CODE_FLOW.png" />
 </p>
 <br>
 
-
+__________________________________________________________________
 #### MathFunction
 
 Script that simulates the behavior of a mathematical function using the Object Oriented Paradigm
@@ -27,9 +27,9 @@ Script that simulates the behavior of a mathematical function using the Object O
 
 - Required modules 
     <br>
-    _abc_: Abstract Base Classes.
+    - _abc_: Abstract Base Classes.
     <br>
-    _logger_: Ad hoc module for managing logs in Python.
+    - _logger_: Ad hoc module for managing logs in Python.
 
 </p>
 
@@ -40,16 +40,17 @@ Script that simulates the behavior of a mathematical function using the Object O
 <br>
 <br>
 
+__________________________________________________________________
 #### Logger
 
 This script is a helper to create an ad hoc logger in Python.
 <p>
 
-- Required modules 
+- Required modules
     <br>
-    _uuid_: to generate a unique identifier (UUID).
+    - _uuid_: to generate a unique identifier (UUID).
     <br>
-    _logging_: for managing logs in Python.
+    - _logging_: for managing logs in Python.
 
 </p>
 
