@@ -13,8 +13,6 @@ Simple python project simulating the behaviour of a mathematical function.
 ### Main Architecture
 __________________________________________________________________
 
-#### _Arithmetic Average_
-
 <p align="center">
   <img src="doc\img\MATHEMATICAL_FUNCTION_CODE_FLOW.png" />
 </p>
