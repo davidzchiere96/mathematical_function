@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mathematical-function"
+name = "mathematical_function"
 version = "0.1.0"
 description = ""
 authors = ["DAVIDE CHIEREGATO <davide.chieregato96@gmail.com>"]
