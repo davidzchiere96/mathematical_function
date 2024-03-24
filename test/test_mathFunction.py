@@ -1,5 +1,6 @@
 import unittest
-import main
+import mathFunction
+
 
 class MyTestCase(unittest.TestCase):
     def test_something(self):
