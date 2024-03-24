@@ -1,9 +1,9 @@
 import mathFunction
 import logger
 
-log = logger.logger()
 
 def main():
+    log = logger.logger()
 
     print("MATHEMATICAL FUNCTION: Arithmetic Average")
     log.info("Instantiating an object of the child class AverageFunction.")

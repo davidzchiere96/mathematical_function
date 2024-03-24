@@ -12,7 +12,7 @@ class AverageFunction(MathFunction):
     def calculate(self, *args):
         log.info(f"Average function arguements: {args}")
         if not args:
-            return 0  # Ritorna 0 se non ci sono argomenti
+            return 0
         else:
             results = sum(args) / len(args)
             log.info(f"Average = {results}")
