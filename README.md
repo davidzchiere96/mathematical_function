@@ -28,7 +28,6 @@ Script that simulates the behavior of a mathematical function using the Object O
 - Required modules 
     <br>
     - _abc_: Abstract Base Classes.
-    <br>
     - _logger_: Ad hoc module for managing logs in Python.
 
 </p>
@@ -49,7 +48,6 @@ This script is a helper to create an ad hoc logger in Python.
 - Required modules
     <br>
     - _uuid_: to generate a unique identifier (UUID).
-    <br>
     - _logging_: for managing logs in Python.
 
 </p>
