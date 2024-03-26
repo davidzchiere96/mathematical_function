@@ -18,6 +18,7 @@ class AverageFunction(MathFunction):
             log.info(f"Average = {results}")
         return results
 
+# input values interface
 def input_arguements():
     values = [float(value) for value in input("Enter a list of numbers separated by spaces: ").split()]
     return values

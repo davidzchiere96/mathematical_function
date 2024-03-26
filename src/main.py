@@ -7,9 +7,12 @@ def main():
 
     print("MATHEMATICAL FUNCTION: Arithmetic Average")
     log.info("Instantiating an object of the child class AverageFunction.")
+
+    # Instantiating the class and calling the input interface
     average_function = mathFunction.AverageFunction()
     arguements = mathFunction.input_arguements()
 
+    # Calculating
     result_average = average_function.calculate(*arguements)
     return result_average
 
