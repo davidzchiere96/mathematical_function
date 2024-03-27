@@ -34,8 +34,7 @@ Script that simulates the behavior of a mathematical function using the Object O
 
 - Scope:
     <br>
-    This script instantiates one abstract class MathFunction and a child class AverageFunction(MathFunction) which inherits the abstract calculation method and enriches it by returning the average value following the input parameters passed in the form of a tuple in the function input_arguements().
-
+    This script instantiates an abstract class MathFunction and a child class AverageFunction, which inherits the abstract calculation method and extends it by computing the average value based on the input parameters passed as a tuple in the input_arguements() function.
 <br>
 <br>
 
