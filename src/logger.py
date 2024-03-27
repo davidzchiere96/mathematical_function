@@ -1,10 +1,10 @@
-"""Logger helper"""
+# Configured Logging
+
 import uuid
 import logging
 
 
 def logger():
-    """Create python logger"""
     # Create transaction id
     transaction_id = str(uuid.uuid4())
     # Create log configurations
